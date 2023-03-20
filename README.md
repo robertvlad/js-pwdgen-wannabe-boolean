@@ -1,4 +1,4 @@
-# js-pwdgen-wannabe_boolean
+# js-pwdgen-wannabe-boolean
 
 PASSWORD GENERATOR FORM
 
